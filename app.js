@@ -94,7 +94,7 @@ var johnDoe = "<b>John Doe</b> orderd <b>5 T-shirts</b>(s) on XYZ clothing store
 //chapter N0.4
 //Question No.1
 var rules = "<h1>Rules of naming JS variables</h1><br><br><br> variable names can only contains , nubers $ , and _. For example : $my_1st variable<br>variable must bigun with a letter, $ or _. For example : $name,_name or name<br> variable names are case sensitive<br> veriable names should not be Js keywords";
-//document.write (rules)
+document.write (rules)
 
 
 
