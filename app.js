@@ -40,21 +40,25 @@ var book="I am trying to learning from the book";
 //alert (book)
 
 //Question No.7
-var browser=
+var browser="";
 //alert (browser)
 
 //Question No.8
 var content="“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”";
-alert (content)
+//alert (content)
 
 //Question No.9
-var first="Ghous ";
-var   last="Ahmed";
-alert (first +" "+ last)
+var name ="Ghous";
+//alert(name)
 
 //Question No.10
-var phone= "03123432622";
-//alert (phone)
+var first="Ghous ";
+var   last="Ahmed";
+//alert (first +" "+ last)
+
+//Question No.11
+var phone= 
+alert (phone)
 
 
 
