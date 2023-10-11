@@ -40,21 +40,44 @@ var book="I am trying to learning from the book";
 //alert (book)
 
 //Question No.7
-var browser=
-//alert (browser)
+var browser="Yah! I can write HTML content through Javascript";
+//document.write (browser)
 
 //Question No.8
-var content="“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”";
-alert (content)
+var content= "“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”";
+//alert (content)
 
 //Question No.9
 var first="Ghous ";
-var   last="Ahmed";
-alert (first +" "+ last)
+   last="Ahmed";
+//alert (first +" "+ last)
 
 //Question No.10
 var phone= "03123432622";
 //alert (phone)
+
+//chapter No.3
+//Question No.1
+var age = "I am 15 years old";
+//alert (age)
+
+//Question No.2
+var visit = "You have visited this site 14 time";
+//alert (visit)
+
+//Question No.3
+var myBirth = "My Birth is 1990 <br><br> Date type of my declared variable is number";
+//document.write (myBirth)
+
+//Question No.4
+var johnDoe = "<b>John Doe</b> orderd <b>5 T-shirts</b>(s) on XYZ clothing store"
+//document.write(johnDoe)
+
+//chapter N0.4
+//Question No.1
+var rules = "<h1>Rules of naming JS variables</h1><br><br><br> variable names can only contains , nubers $ , and _. For example : $my_1st variable<br>variable must bigun with a letter, $ or _. For example : $name,_name or name<br> variable names are case sensitive<br> veriable names should not be Js keywords";
+//document.write (rules)
+
 
 
 
