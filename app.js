@@ -1,17 +1,60 @@
+//chapter No.01
 // Question No.1
-alert ("js external");
+//alert ("Error! please enter a valid password");
 
 //Question No.2
+//alert ("Welcome to JS land.... \n Happy Coding!"); 
 
-var myname = "soomro";
-var myname = "nadeem";
+//Question No.3
+//alert ("Welcome to JS Land...");
 
-alert (myname);
+//Question No.4
+//alert ("Happy Coding! \n \n Prevent this page from creating aditional dailogs"); 
 
+//Question No.5
+//alert ("Hello... I can run JS Through my web browser's console");
 
+//Chapter No.02
+//Question No.1
+//var name="Muhammad Nadeem";
+//alert (name)
 
+//Question No.2
+//var myAge="15 year old";
+//alert (myAge)
 
+//Question No.3
+var coment="Certified mobile application development";
+//alert (coment)
 
+//Question No.4
+var pizza="PIZZA \n PIZZ \n PIZZ \n PIZ \n PI \n P";
+//alert (pizza)
+
+//Question No.5
+var email="My email address is example@example.com";
+//alert (email)
+
+//Question No.6
+var book="I am trying to learning from the book";
+//alert (book)
+
+//Question No.7
+var browser=
+//alert (browser)
+
+//Question No.8
+var content="“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”";
+alert (content)
+
+//Question No.9
+var first="Ghous ";
+var   last="Ahmed";
+alert (first +" "+ last)
+
+//Question No.10
+var phone= "03123432622";
+//alert (phone)
 
 
 
