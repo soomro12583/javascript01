@@ -40,6 +40,7 @@ var book="I am trying to learning from the book";
 //alert (book)
 
 //Question No.7
+<<<<<<< HEAD
 var browser="Yah! I can write HTML content through Javascript";
 //document.write (browser)
 
@@ -51,10 +52,27 @@ var content= "“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬
 var first="Ghous ";
    last="Ahmed";
 //alert (first +" "+ last)
+=======
+var browser="";
+//alert (browser)
+
+//Question No.8
+var content="“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”";
+//alert (content)
+
+//Question No.9
+var name ="Ghous";
+//alert(name)
+>>>>>>> 2150ca0b57aad8e8ac0dc621885b5f19c4c4f332
 
 //Question No.10
-var phone= "03123432622";
-//alert (phone)
+var first="Ghous ";
+var   last="Ahmed";
+//alert (first +" "+ last)
+
+//Question No.11
+var phone= 
+alert (phone)
 
 //chapter No.3
 //Question No.1
